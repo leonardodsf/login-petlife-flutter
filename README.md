@@ -14,3 +14,9 @@ A few resources to get you started if this is your first Flutter project:
 For help getting started with Flutter, view our
 [online documentation](https://flutter.dev/docs), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
+
+## Screen 
+
+- Login Screen Gif
+
+![Login Screen Gif](https://user-images.githubusercontent.com/54339869/79623152-fdfdda80-80f0-11ea-87d3-8ba477473df1.gif)
